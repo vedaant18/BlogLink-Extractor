@@ -1,4 +1,4 @@
-# Web-scrapper
+# BlogLink Extractor
 
 Overview:
 BlogLink Extractor is a powerful and user-friendly application designed to streamline the process of collecting and archiving blog content from a list of URLs stored in an Excel file. This essential tool simplifies the task of extracting blog articles, enabling users to effortlessly save them as text files for future reference or analysis.
